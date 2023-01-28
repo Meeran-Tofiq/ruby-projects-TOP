@@ -25,7 +25,7 @@ def caesar_cipher(str, shift)
 
        shifted_string += shifted_char
     end
-
+    
     shifted_string
 end
 
